@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.6",
+  "version": "0.9.7",
   "date": "2026-10-18",
   "notes": {
-    "uk": "Перша версія з оновленням",
-    "en": "First version with an update",
-    "pl": "Pierwsza wersja z aktualizacją"
+    "uk": "Нова версія (ТЕСТ)",
+    "en": "Нова версія (ТЕСТ)",
+    "pl": "Нова версія (ТЕСТ)"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.6.neu",
-    "size": 11952897,
-    "sha256": "1b3ea6350b4f6d5a6f3524e046c529ed26e82cd30d9647821288a080a6ef67e7",
-    "sig": "no0YxCuRQS7lloKTb-yvtfgslmq13EwIRzQW4VN3z6Yr_o7SzI6UPVqWGc2JX61TXpcI1MfFQPQtAGaHIvgksw"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.7.neu",
+    "size": 11953203,
+    "sha256": "49917c794f814d747d805acf21bc6d27f7ffacc2f2d3544ed254b39019c4a5aa",
+    "sig": "BWTVvR5hhdkwh4LzgWQOXszPqOIB0NXeUYE9YjDma86DjPAkhAoiJkjduKmN7rb7IjePIk-wwGqX1kmPws_4SQ"
   }
 }
