@@ -1,7 +1,7 @@
 {
   "app": "InCost",
   "version": "0.9.10",
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "notes": {
     "uk": "",
     "en": "",
@@ -9,8 +9,8 @@
   },
   "resources": {
     "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.10.neu",
-    "size": 12100843,
-    "sha256": "5ad42960abe4941bcad4be986790e7b39d9c428a516e3abd269a8d324d3614b5",
-    "sig": "KKWJmwd0WDkV5TnAgEl8F7_0ErbeYVGGWsOyWNk3Wye82eE-i3DlXj0HJ0kyFDzwa_l-qqmy9gi34FlUui3LWw"
+    "size": 12100935,
+    "sha256": "6ec697eb8bd17c5a5c348ba304cc7f0b5f2f87bd5ce4124b27a45041003c936c",
+    "sig": "w383-x8QB8ZgJbj7ErKvrpNO4Mo37G-XYXMnM0T_pwjSzADXmz2HKFek8NKzlCU3e4nnRCa9dUwO0g88WyWWbw"
   }
 }
