@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.14",
-  "date": "2026-10-25",
+  "version": "0.9.16",
+  "date": "2026-10-27",
   "notes": {
-    "uk": "",
-    "en": "",
-    "pl": ""
+    "uk": "Для США і Європи в маршрутній карті тепер категорії робітників (помічник, оператор, наладчик, провідний технік) замість розрядів. Для України розряди лишились.\nУ режимі заготовок на контурі показуються «Маса заготовок» і окремо «Маса деталі після підрізки».\nДодано автотест, який при кожній збірці перераховує креслення fin_uat.dxf, яке я перевіряв вручну 25.10, за тими ж формулами.",
+    "en": "For the US and Europe, the routing sheet now uses worker categories (assistant, operator, setup technician, lead technician) instead of skill grades. For Ukraine, the skill grades remain.\nIn the blanks mode, the \"Mass of blanks\" and, separately, the \"Mass of parts after trimming\" are displayed on the contour.\nAn auto-test has been added that recalculates the generation of `fin_uat.dxf` during every build—a process I manually verified on October 25th using the same formulas.",
+    "pl": "Для США і Європи в маршрутній карті тепер категорії робітників (помічник, оператор, наладчик, провідний технік) замість розрядів. Для України розряди лишились.\nУ режимі заготовок на контурі показуються «Маса заготовок» і окремо «Маса деталі після підрізки».\nДодано автотест, який при кожній збірці перераховує креслення fin_uat.dxf, яке я перевіряв вручну 25.10, за тими ж формулами."
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.14.neu",
-    "size": 12350509,
-    "sha256": "0d3ed722d430907915727e350945140375a97aee0cbc4b8950e37b48a8b44889",
-    "sig": "aoiDicXCufrKpIpUbendSLHBqtypblgqmRSL1QrbbWQbb4ePpU3LoslNKK013BD1hHbgO74QUkJo6Xtqnc_2Qw"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.16.neu",
+    "size": 12367833,
+    "sha256": "d299a33539cea3fa0fd04bb9f52064270e260f303f8d7f88c8552d717f110450",
+    "sig": "P22W7LkLHHLsd78FmwIJlSFjKGkBXuyhz9Lg3AmyjDb_dLConmGGybN3r_EUb_LN1d67k3sl-M0XT27EypL85A"
   }
 }
