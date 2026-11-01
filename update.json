@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.23",
-  "date": "2026-10-31",
+  "version": "0.9.24",
+  "date": "2026-11-01",
   "notes": {
-    "uk": "Оновлення Довідка",
-    "en": "New Help",
-    "pl": "Bug Fix!!!"
+    "uk": "Режим США: маса в унціях і фунтах замість грамів у 3D-друку, композитах і зварюванні\nПлоща, товщина стінки й довжина швів — у дюймах і футах\nНова довідка з анімованими уроками\nЖурнал пропозицій, шаблони клієнтів, пропозиція посиланням, вуглецевий слід",
+    "en": "US mode: weights now in ounces and pounds instead of grams in 3D printing, composites and welding\nSurface area, wall thickness and weld length in inches and feet\nNew help with animated lessons\nQuote log, client templates, quote by link, carbon footprint",
+    "pl": "Tryb USA: masa w uncjach i funtach zamiast gramów w druku 3D, kompozytach i spawaniu\nPole powierzchni, grubość ścianki i długość spoin w calach i stopach\nNowa pomoc z animowanymi lekcjami\nDziennik ofert, szablony klientów, oferta przez link, ślad węglowy"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.23.neu",
-    "size": 17161475,
-    "sha256": "9f9fab07fa81b96a88d7222e6b2dff63212ecb9f0ae119eec0bc58e0bdff0d8d",
-    "sig": "JuF-7wqIJrD4qxS3r53kX2zEEIYtLOeIUSzTwgg-TGPpAQK9r-DtJZaCTxjzqkIZ2habr8ejscifXomjH0tWRA"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.24.neu",
+    "size": 17162631,
+    "sha256": "5f48b4c1ccc5e439d2fa24f669ef8bbe4b35f04aee97fc59835b7f652107dc2a",
+    "sig": "DE6zHgZpyUbGPZai1UUUHFeB21lPNgez8qn_Zt7Y66Dq1mdxQzUosFYdsi0fulvulfRH-2uARZbsPhbBFbODfg"
   }
 }
