@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.24",
-  "date": "2026-11-01",
+  "version": "0.9.26",
+  "date": "2026-11-08",
   "notes": {
-    "uk": "Режим США: маса в унціях і фунтах замість грамів у 3D-друку, композитах і зварюванні\nПлоща, товщина стінки й довжина швів — у дюймах і футах\nНова довідка з анімованими уроками\nЖурнал пропозицій, шаблони клієнтів, пропозиція посиланням, вуглецевий слід",
-    "en": "US mode: weights now in ounces and pounds instead of grams in 3D printing, composites and welding\nSurface area, wall thickness and weld length in inches and feet\nNew help with animated lessons\nQuote log, client templates, quote by link, carbon footprint",
-    "pl": "Tryb USA: masa w uncjach i funtach zamiast gramów w druku 3D, kompozytach i spawaniu\nPole powierzchni, grubość ścianki i długość spoin w calach i stopach\nNowa pomoc z animowanymi lekcjami\nDziennik ofert, szablony klientów, oferta przez link, ślad węglowy"
+    "uk": "Точні час друку й маса пластику зі слайсера (Bambu Studio, Orca, PrusaSlicer, Cura) · Виправлено завищену ціну 3D-друку в регіоні «Європа»",
+    "en": "Exact print time and filament weight from your slicer (Bambu Studio, Orca, PrusaSlicer, Cura) · Fixed overstated 3D printing prices in the Europe region",
+    "pl": "Dokładny czas druku i masa filamentu z slicera (Bambu Studio, Orca, PrusaSlicer, Cura) · Poprawiono zawyżoną cenę druku 3D w regionie „Europa”"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.24.neu",
-    "size": 17162631,
-    "sha256": "5f48b4c1ccc5e439d2fa24f669ef8bbe4b35f04aee97fc59835b7f652107dc2a",
-    "sig": "DE6zHgZpyUbGPZai1UUUHFeB21lPNgez8qn_Zt7Y66Dq1mdxQzUosFYdsi0fulvulfRH-2uARZbsPhbBFbODfg"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.26.neu",
+    "size": 17177450,
+    "sha256": "81f81e9e5e7170348f4dffc454d01c46052f61e8b5e9444d656c9cdefcbe8cb3",
+    "sig": "AH8QFskKULs1tGD8MTbM74U017I5Jq4gYFaoVDVKSFvvBcuSDRn74RnxU2zAPviCUcBQAVRoqqW4MTlm8PYAUw"
   }
 }
