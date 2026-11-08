@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.26",
+  "version": "0.9.27",
   "date": "2026-11-08",
   "notes": {
-    "uk": "Точні час друку й маса пластику зі слайсера (Bambu Studio, Orca, PrusaSlicer, Cura) · Виправлено завищену ціну 3D-друку в регіоні «Європа»",
-    "en": "Exact print time and filament weight from your slicer (Bambu Studio, Orca, PrusaSlicer, Cura) · Fixed overstated 3D printing prices in the Europe region",
-    "pl": "Dokładny czas druku i masa filamentu z slicera (Bambu Studio, Orca, PrusaSlicer, Cura) · Poprawiono zawyżoną cenę druku 3D w regionie „Europa”"
+    "uk": "Креслення токарних деталей з пазами й лисками (вісь, діаметри, розріз, 2:1 для дрібних) · Осьові лінії для моделей SolidWorks · Пояснення маси суцільної й надрукованої деталі в 3D-друку",
+    "en": "EDrawings of turned parts with slots and flats (axis, diameters, section, 2:1 for small parts) · Centerlines for SolidWorks models · Solid vs printed weight explained in 3D printing",
+    "pl": "Rysunki części toczonych z rowkami i spłaszczeniami (oś, średnice, przekrój, 2:1 dla małych) · Osie dla modeli SolidWorks · Wyjaśnienie masy pełnej i wydrukowanej w druku 3D"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.26.neu",
-    "size": 17177450,
-    "sha256": "81f81e9e5e7170348f4dffc454d01c46052f61e8b5e9444d656c9cdefcbe8cb3",
-    "sig": "AH8QFskKULs1tGD8MTbM74U017I5Jq4gYFaoVDVKSFvvBcuSDRn74RnxU2zAPviCUcBQAVRoqqW4MTlm8PYAUw"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.27.neu",
+    "size": 17183186,
+    "sha256": "c9da33a6ca0ecb802845514d0c21d41f8360c7d44447d19f43279cd1255f3f18",
+    "sig": "6A3_pLFZf_HbIOVkiHy3poHN_1K2r2mtnfow9Bil-DR8IvzLxeh3wiOfZsAhOmBr0ZNCThJ3BnNXltALV15tqg"
   }
 }
