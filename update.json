@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.27",
-  "date": "2026-11-08",
+  "version": "0.9.28",
+  "date": "2026-11-11",
   "notes": {
-    "uk": "Креслення токарних деталей з пазами й лисками (вісь, діаметри, розріз, 2:1 для дрібних) · Осьові лінії для моделей SolidWorks · Пояснення маси суцільної й надрукованої деталі в 3D-друку",
-    "en": "EDrawings of turned parts with slots and flats (axis, diameters, section, 2:1 for small parts) · Centerlines for SolidWorks models · Solid vs printed weight explained in 3D printing",
-    "pl": "Rysunki części toczonych z rowkami i spłaszczeniami (oś, średnice, przekrój, 2:1 dla małych) · Osie dla modeli SolidWorks · Wyjaśnienie masy pełnej i wydrukowanej w druku 3D"
+    "uk": "Регіон і валюта за країною (AUD, CAD, GBP та інші) · Панель «Перші кроки» · «Мій цех за місяць» у Проєктах · Поради на email",
+    "en": "Region and currency by country (AUD, CAD, GBP and more) · “First steps” panel · “My shop this month” in Projects · Tips by email",
+    "pl": "Region i waluta według kraju (AUD, CAD, GBP i inne) · Panel „Pierwsze kroki” · „Mój warsztat w tym miesiącu” w Projektach · Porady e-mailem"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.27.neu",
-    "size": 17183186,
-    "sha256": "c9da33a6ca0ecb802845514d0c21d41f8360c7d44447d19f43279cd1255f3f18",
-    "sig": "6A3_pLFZf_HbIOVkiHy3poHN_1K2r2mtnfow9Bil-DR8IvzLxeh3wiOfZsAhOmBr0ZNCThJ3BnNXltALV15tqg"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.28.neu",
+    "size": 17210832,
+    "sha256": "0556a8765813cfc437c3ee59b9bd004b5486c7bf27adf8a674d706fd421a3d63",
+    "sig": "udxLxtd_MmjCgIjYyHb4X9bqFQdP3ZGu7-hLd7oJuFEsC1HxJ4VDFNNNyjyGTNIY_P74S5Jl7Vjv-DkilIVkoQ"
   }
 }
