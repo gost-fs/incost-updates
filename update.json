@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.29",
+  "version": "0.9.30",
   "date": "2026-11-12",
   "notes": {
-    "uk": "Розкладка плиток на контурі. У розділі «Лист і різання» увімкніть «Розкласти плитки по контуру»: виберіть контур з креслення або створіть прямокутник чи коло, потім форму плитки — прямокутник, трикутник, шестикутник, ромб, трапецію або свою фігуру з DXF. Задайте шов і кут повороту. Програма порівняє розкладку сіткою і «цеглою» під кількома кутами, покаже цілі й підрізані плитки, дрібні обрізки, відходи та підрізний різ і позначить найкращий варіант. Розкладку можна експортувати в DXF. Креслення з шестикутниками, ромбами й трапеціями тепер теж розпізнаються.",
-    "en": "Tile layout on a contour. In \"Sheet & cutting\", turn on \"Lay out tiles on the contour\": use the contour from your drawing or create a rectangle or circle, then pick the tile shape — rectangle, triangle, hexagon, rhombus, trapezoid or your own shape from DXF. Set the joint and rotation angle. InCost compares grid and brick layouts at several angles, shows whole and trimmed tiles, small offcuts, waste and trim cutting, and marks the best option. The layout can be exported to DXF. Drawings with hexagons, rhombuses and trapezoids are now recognized too.",
-    "pl": "Rozkład płytek na konturze. W sekcji „Arkusz i cięcie” włącz „Rozłóż płytki na konturze”: weź kontur z rysunku albo utwórz prostokąt lub koło, potem wybierz kształt płytki — prostokąt, trójkąt, sześciokąt, romb, trapez lub własny kształt z DXF. Ustaw fugę i kąt obrotu. InCost porówna rozkład w siatce i „w cegłę” pod kilkoma kątami, pokaże całe i przycięte płytki, drobne ścinki, odpady i cięcie przycinające oraz wskaże najlepszy wariant. Rozkład można wyeksportować do DXF. Rysunki z sześciokątami, rombami i trapezami są teraz również rozpoznawane."
+    "uk": "ручніший інтерфейс. «Лист і різання» розбито на вкладки: Розрахунок, Розкладка на листі, Технологу, Ціна й аналіз. Довгі списки деталей стали компактними: основні типи на виду, дрібні й поодинокі шматки згорнуті в один рядок і згруповані за розміром, є пошук за назвою чи номером. Рідко потрібні картки можна згорнути — у заголовку видно короткий підсумок значень.",
+    "en": "A cleaner interface. Sheet & cutting is split into tabs: Costing, Sheet nesting, For the process engineer, Price & analysis. Long part lists are compact: main types stay visible, small and single pieces are collapsed into one row and grouped by size, and you can search by name or number. Rarely used cards can be collapsed, with a short summary of their values in the header.",
+    "pl": "Wygodniejszy interfejs. „Arkusz i cięcie” podzielono na karty: Wycena, Rozkład na arkuszu, Dla technologa, Cena i analiza. Długie listy detali są zwarte: główne typy są widoczne, drobne i pojedyncze kawałki zwinięte w jeden wiersz i pogrupowane według rozmiaru, jest wyszukiwanie po nazwie lub numerze. Rzadko używane karty można zwinąć — w nagłówku widać krótkie podsumowanie wartości."
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.29.neu",
-    "size": 17247581,
-    "sha256": "502c7b0b7abc34c869efe35b6a58013e3c4636671dc09bcd456d07c98505fa4e",
-    "sig": "OsdlNFZogzf8kzQRMRzqHSaxon9dxExmBSsnkMihTySK0zjkEXxCfgNkvdmc55J41tIMBq_r7ztRH6wXhZb1kg"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.30.neu",
+    "size": 17267479,
+    "sha256": "6b1a41523f4aa3c9f8edd854792b1e6b6ee7c651db3a30616ddefc992ecec330",
+    "sig": "o3BZHJ_t1Oi801r44EoQZyCcHdfc6HsYhjXutEz2NqqxxRk0_CCcluAZrCUoLhMmSdmdn5xGWWBRLA897hp7pg"
   }
 }
