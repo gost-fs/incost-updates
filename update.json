@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.28",
-  "date": "2026-11-11",
+  "version": "0.9.29",
+  "date": "2026-11-12",
   "notes": {
-    "uk": "Регіон і валюта за країною (AUD, CAD, GBP та інші) · Панель «Перші кроки» · «Мій цех за місяць» у Проєктах · Поради на email",
-    "en": "Region and currency by country (AUD, CAD, GBP and more) · “First steps” panel · “My shop this month” in Projects · Tips by email",
-    "pl": "Region i waluta według kraju (AUD, CAD, GBP i inne) · Panel „Pierwsze kroki” · „Mój warsztat w tym miesiącu” w Projektach · Porady e-mailem"
+    "uk": "Розкладка плиток на контурі. У розділі «Лист і різання» увімкніть «Розкласти плитки по контуру»: виберіть контур з креслення або створіть прямокутник чи коло, потім форму плитки — прямокутник, трикутник, шестикутник, ромб, трапецію або свою фігуру з DXF. Задайте шов і кут повороту. Програма порівняє розкладку сіткою і «цеглою» під кількома кутами, покаже цілі й підрізані плитки, дрібні обрізки, відходи та підрізний різ і позначить найкращий варіант. Розкладку можна експортувати в DXF. Креслення з шестикутниками, ромбами й трапеціями тепер теж розпізнаються.",
+    "en": "Tile layout on a contour. In \"Sheet & cutting\", turn on \"Lay out tiles on the contour\": use the contour from your drawing or create a rectangle or circle, then pick the tile shape — rectangle, triangle, hexagon, rhombus, trapezoid or your own shape from DXF. Set the joint and rotation angle. InCost compares grid and brick layouts at several angles, shows whole and trimmed tiles, small offcuts, waste and trim cutting, and marks the best option. The layout can be exported to DXF. Drawings with hexagons, rhombuses and trapezoids are now recognized too.",
+    "pl": "Rozkład płytek na konturze. W sekcji „Arkusz i cięcie” włącz „Rozłóż płytki na konturze”: weź kontur z rysunku albo utwórz prostokąt lub koło, potem wybierz kształt płytki — prostokąt, trójkąt, sześciokąt, romb, trapez lub własny kształt z DXF. Ustaw fugę i kąt obrotu. InCost porówna rozkład w siatce i „w cegłę” pod kilkoma kątami, pokaże całe i przycięte płytki, drobne ścinki, odpady i cięcie przycinające oraz wskaże najlepszy wariant. Rozkład można wyeksportować do DXF. Rysunki z sześciokątami, rombami i trapezami są teraz również rozpoznawane."
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.28.neu",
-    "size": 17210832,
-    "sha256": "0556a8765813cfc437c3ee59b9bd004b5486c7bf27adf8a674d706fd421a3d63",
-    "sig": "udxLxtd_MmjCgIjYyHb4X9bqFQdP3ZGu7-hLd7oJuFEsC1HxJ4VDFNNNyjyGTNIY_P74S5Jl7Vjv-DkilIVkoQ"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.29.neu",
+    "size": 17247581,
+    "sha256": "502c7b0b7abc34c869efe35b6a58013e3c4636671dc09bcd456d07c98505fa4e",
+    "sig": "OsdlNFZogzf8kzQRMRzqHSaxon9dxExmBSsnkMihTySK0zjkEXxCfgNkvdmc55J41tIMBq_r7ztRH6wXhZb1kg"
   }
 }
