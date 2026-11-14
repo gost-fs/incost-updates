@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.30",
-  "date": "2026-11-12",
+  "version": "0.9.33",
+  "date": "2026-11-14",
   "notes": {
-    "uk": "ручніший інтерфейс. «Лист і різання» розбито на вкладки: Розрахунок, Розкладка на листі, Технологу, Ціна й аналіз. Довгі списки деталей стали компактними: основні типи на виду, дрібні й поодинокі шматки згорнуті в один рядок і згруповані за розміром, є пошук за назвою чи номером. Рідко потрібні картки можна згорнути — у заголовку видно короткий підсумок значень.",
-    "en": "A cleaner interface. Sheet & cutting is split into tabs: Costing, Sheet nesting, For the process engineer, Price & analysis. Long part lists are compact: main types stay visible, small and single pieces are collapsed into one row and grouped by size, and you can search by name or number. Rarely used cards can be collapsed, with a short summary of their values in the header.",
-    "pl": "Wygodniejszy interfejs. „Arkusz i cięcie” podzielono na karty: Wycena, Rozkład na arkuszu, Dla technologa, Cena i analiza. Długie listy detali są zwarte: główne typy są widoczne, drobne i pojedyncze kawałki zwinięte w jeden wiersz i pogrupowane według rozmiaru, jest wyszukiwanie po nazwie lub numerze. Rzadko używane karty można zwinąć — w nagłówku widać krótkie podsumowanie wartości."
+    "uk": "Симуляція різання: «Лист і різання» → «Технологу» — видно порядок контурів, точки врізки, холості переходи й час кожного етапу\nХолості переходи в ціні тепер рахуються за справжнім планом проходу — час у ціні збігається з симуляцією\nТочніші площа й маса деталей з дугами та колами\nПопередження, якщо лінії креслення накладаються або між ними є розриви (верстат виріже такі місця двічі) — з порадою, як почистити файл\nГенератор плиток на контурі працює з кресленнями, де все на шарі «0»\nВиправлено переклад маршрутної карти англійською й польською",
+    "en": "Cutting simulation: “Sheet and cutting” → “For technologist” — see the contour order, pierce points, rapid moves and the time of each stage\nRapid moves in the price are now calculated from the real cutting plan — the time in the price matches the simulation\nMore accurate area and weight of parts with arcs and circles\nWarning when drawing lines overlap or have gaps (the machine would cut those places twice) — with a tip on how to clean the file\nTile generator on a contour now works with drawings where everything is on layer “0”\nFixed the route card translation in English and Polish",
+    "pl": "Symulacja cięcia: „Blacha i cięcie” → „Dla technologa” — widać kolejność konturów, punkty przebicia, przejazdy jałowe i czas każdego etapu\nPrzejazdy jałowe w cenie są teraz liczone według rzeczywistego planu cięcia — czas w cenie zgadza się z symulacją\nDokładniejsza powierzchnia i masa detali z łukami i okręgami\nOstrzeżenie, gdy linie rysunku nakładają się lub mają przerwy (maszyna wytnie te miejsca dwa razy) — z podpowiedzią, jak oczyścić plik\nGenerator płytek na konturze działa z rysunkami, w których wszystko jest na warstwie „0”\nPoprawiono tłumaczenie karty marszrutowej po angielsku i polsku"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.30.neu",
-    "size": 17267479,
-    "sha256": "6b1a41523f4aa3c9f8edd854792b1e6b6ee7c651db3a30616ddefc992ecec330",
-    "sig": "o3BZHJ_t1Oi801r44EoQZyCcHdfc6HsYhjXutEz2NqqxxRk0_CCcluAZrCUoLhMmSdmdn5xGWWBRLA897hp7pg"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.33.neu",
+    "size": 17307593,
+    "sha256": "c829013da74264ff39d1553166b9586f122af25808146b6f48544832e2de2978",
+    "sig": "Q0wUyEvfhvWBZlUjTf2ASqy2TQ6xyFPucdVmTpu0_BQ_qJ2X2UtCTXD-TPl1nZ0JRQMwbnB1TEDChdKJAPtkIQ"
   }
 }
