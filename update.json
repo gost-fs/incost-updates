@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.34",
+  "version": "0.9.35",
   "date": "2026-11-14",
   "notes": {
-    "uk": "Симуляція й розкладка на листі тепер працюють і з заготовками на контурі та Підказка, якщо вибрані одиниці креслення не збігаються з файлом",
-    "en": "Simulation and sheet nesting now also work with blanks on a contour та A hint when the selected drawing units don't match the file",
-    "pl": "Symulacja i rozkład na arkuszu działają teraz także z półfabrykatami na konturze та Podpowiedź, gdy wybrane jednostki rysunku nie zgadzają się z plikiem"
+    "uk": "Нова «Бібліотека конструктора»: різьби, місця під ключ, труби, марки сталі, шорсткість, гнуття й зварні шви — таблиці з анімованими схемами",
+    "en": "New “Designer's library”: threads, wrench clearances, pipes, steel grades, roughness, bending and welds — tables with animated diagrams",
+    "pl": "owa „Biblioteka konstruktora”: gwinty, miejsca na klucz, rury, gatunki stali, chropowatość, gięcie i spoiny — tabele z animowanymi schematami"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.34.neu",
-    "size": 17319910,
-    "sha256": "b13d0011f174951b2525244274f2a3a7e1ab42707d239dcd263dc688dd323014",
-    "sig": "ND-pEH9oc9x5nPlYJMS41rrDWNmfPwTxfks7yBCnTLvKORW6U8ezhKB6ZadwmR-NKnpOhECgfws5iqkkl-emdg"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.35.neu",
+    "size": 17478892,
+    "sha256": "bdacaeb245c862ac3c79196701ec3d45fc35e9dbf76609a3a410a1ada829253b",
+    "sig": "eFY5Ao0us5duuNv_nDCTCY4qyCy01RtLfMENPoTUx-hc3Aqli_5kqoJ6utu3IdnnTAGTg6wLT67F3WtBVq8PmQ"
   }
 }
