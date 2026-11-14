@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.33",
+  "version": "0.9.34",
   "date": "2026-11-14",
   "notes": {
-    "uk": "Симуляція різання: «Лист і різання» → «Технологу» — видно порядок контурів, точки врізки, холості переходи й час кожного етапу\nХолості переходи в ціні тепер рахуються за справжнім планом проходу — час у ціні збігається з симуляцією\nТочніші площа й маса деталей з дугами та колами\nПопередження, якщо лінії креслення накладаються або між ними є розриви (верстат виріже такі місця двічі) — з порадою, як почистити файл\nГенератор плиток на контурі працює з кресленнями, де все на шарі «0»\nВиправлено переклад маршрутної карти англійською й польською",
-    "en": "Cutting simulation: “Sheet and cutting” → “For technologist” — see the contour order, pierce points, rapid moves and the time of each stage\nRapid moves in the price are now calculated from the real cutting plan — the time in the price matches the simulation\nMore accurate area and weight of parts with arcs and circles\nWarning when drawing lines overlap or have gaps (the machine would cut those places twice) — with a tip on how to clean the file\nTile generator on a contour now works with drawings where everything is on layer “0”\nFixed the route card translation in English and Polish",
-    "pl": "Symulacja cięcia: „Blacha i cięcie” → „Dla technologa” — widać kolejność konturów, punkty przebicia, przejazdy jałowe i czas każdego etapu\nPrzejazdy jałowe w cenie są teraz liczone według rzeczywistego planu cięcia — czas w cenie zgadza się z symulacją\nDokładniejsza powierzchnia i masa detali z łukami i okręgami\nOstrzeżenie, gdy linie rysunku nakładają się lub mają przerwy (maszyna wytnie te miejsca dwa razy) — z podpowiedzią, jak oczyścić plik\nGenerator płytek na konturze działa z rysunkami, w których wszystko jest na warstwie „0”\nPoprawiono tłumaczenie karty marszrutowej po angielsku i polsku"
+    "uk": "Симуляція й розкладка на листі тепер працюють і з заготовками на контурі та Підказка, якщо вибрані одиниці креслення не збігаються з файлом",
+    "en": "Simulation and sheet nesting now also work with blanks on a contour та A hint when the selected drawing units don't match the file",
+    "pl": "Symulacja i rozkład na arkuszu działają teraz także z półfabrykatami na konturze та Podpowiedź, gdy wybrane jednostki rysunku nie zgadzają się z plikiem"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.33.neu",
-    "size": 17307593,
-    "sha256": "c829013da74264ff39d1553166b9586f122af25808146b6f48544832e2de2978",
-    "sig": "Q0wUyEvfhvWBZlUjTf2ASqy2TQ6xyFPucdVmTpu0_BQ_qJ2X2UtCTXD-TPl1nZ0JRQMwbnB1TEDChdKJAPtkIQ"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.34.neu",
+    "size": 17319910,
+    "sha256": "b13d0011f174951b2525244274f2a3a7e1ab42707d239dcd263dc688dd323014",
+    "sig": "ND-pEH9oc9x5nPlYJMS41rrDWNmfPwTxfks7yBCnTLvKORW6U8ezhKB6ZadwmR-NKnpOhECgfws5iqkkl-emdg"
   }
 }
