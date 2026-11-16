@@ -1,6 +1,6 @@
 {
   "app": "InCost",
-  "version": "0.9.40",
+  "version": "0.9.41",
   "date": "2026-11-16",
   "notes": {
     "uk": "Розкрій листа: кілька варіантів на вибір — найщільніше, без повороту, рядами, цеглою, з більшим діловим залишком\nСимуляція лазера проходить усю деталь, з прогресом «Вирізано X з Y»\nЗаготовки на контурі: різ «лише виступи» або «весь контур», заготовки всередині — кожна по своєму контуру\nРозгортка листової деталі з 3D-моделі з точним контуром, DXF розгортки й ціна різання та гнуття\nОтвори під різьбу в DXF (Ø6,8 → M8): нарізання різьби в ціні й маршрутній карті\n3D-друк: у FDM — лише пластики, у SLA — смоли, у SLS — порошки; маса надрукованої деталі й поради щодо матеріалу\n3D-друк: точніший час SLA/SLS для неповної платформи, порожниста деталь у SLA\nРадник конструктора: підбір болта з моментом затягування за VDI 2230, посадки ISO 286, підшипники, шпонки, твердість\n«Яку сталь обрати»: марки з аналогами ГОСТ ↔ EN ↔ AISI, профілі з масою й вартістю — одразу у «Виріб»\nЗручніше: Налаштування вкладками з пошуком, пошук матеріалів будь-якою мовою, «Що нового» в Довідці",
@@ -8,9 +8,9 @@
     "pl": "Rozkrój arkusza: kilka wariantów do wyboru — najgęstszy, bez obrotu, rzędami, w cegłę, z większym odpadem użytkowym\nSymulacja lasera przechodzi przez całą część z postępem „Wycięto X z Y”\nPółfabrykaty na konturze: cięcie „tylko wystające” lub „cały kontur”; półfabrykaty wewnątrz — każdy po własnym konturze\nRozwinięcie części z blachy z modelu 3D z dokładnym konturem, DXF rozwinięcia i cena cięcia oraz gięcia\nOtwory pod gwint w DXF (Ø6,8 → M8): gwintowanie w cenie i karcie technologicznej\nDruk 3D: w FDM tylko filamenty, w SLA żywice, w SLS proszki; masa wydrukowanej części i porady materiałowe\nDruk 3D: dokładniejszy czas SLA/SLS dla niepełnej platformy, części puste w środku w SLA\nDoradca konstruktora: dobór śruby z momentem dokręcania wg VDI 2230, pasowania ISO 286, łożyska, wpusty, twardość\n„Jaką stal wybrać”: gatunki z odpowiednikami GOST ↔ EN ↔ AISI, profile z masą i kosztem prosto do Wyrobu\nWygodniej: Ustawienia w zakładkach z wyszukiwaniem, wyszukiwanie materiałów w każdym języku, „Co nowego” w Pomocy"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.40.neu",
-    "size": 17749984,
-    "sha256": "ca3d4c9a471088c846f9b4c05ec81111fd485fc873344aeab3fb185ea3db702c",
-    "sig": "q1QO9hzz-0-Ms9aLDohxCTjuaaCvprRuAnSXW7XcUmgDiTlmNWVz8_0N_qXDGDBou71qstgC6EOdbIheJt1aCg"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.41.neu",
+    "size": 17783482,
+    "sha256": "4380fcee779b175469632dab32378a9e5079d449cde68726d7a67febfcea5668",
+    "sig": "kYkMQWhnopxYQnkCmmchmVIVRvJS9NpGvVoGHYIC8qVPcdF4oxJuX7yUjwUdFWT69Rn_jAvxkdJ2SIRASWJXwg"
   }
 }
