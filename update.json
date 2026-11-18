@@ -1,16 +1,16 @@
 {
   "app": "InCost",
-  "version": "0.9.41",
-  "date": "2026-11-16",
+  "version": "0.9.42",
+  "date": "2026-11-18",
   "notes": {
-    "uk": "Розкрій листа: кілька варіантів на вибір — найщільніше, без повороту, рядами, цеглою, з більшим діловим залишком\nСимуляція лазера проходить усю деталь, з прогресом «Вирізано X з Y»\nЗаготовки на контурі: різ «лише виступи» або «весь контур», заготовки всередині — кожна по своєму контуру\nРозгортка листової деталі з 3D-моделі з точним контуром, DXF розгортки й ціна різання та гнуття\nОтвори під різьбу в DXF (Ø6,8 → M8): нарізання різьби в ціні й маршрутній карті\n3D-друк: у FDM — лише пластики, у SLA — смоли, у SLS — порошки; маса надрукованої деталі й поради щодо матеріалу\n3D-друк: точніший час SLA/SLS для неповної платформи, порожниста деталь у SLA\nРадник конструктора: підбір болта з моментом затягування за VDI 2230, посадки ISO 286, підшипники, шпонки, твердість\n«Яку сталь обрати»: марки з аналогами ГОСТ ↔ EN ↔ AISI, профілі з масою й вартістю — одразу у «Виріб»\nЗручніше: Налаштування вкладками з пошуком, пошук матеріалів будь-якою мовою, «Що нового» в Довідці",
-    "en": "Sheet nesting: several layouts to choose from — densest, no rotation, in rows, brick pattern, larger usable remnant\nLaser simulation now runs through the whole part with “Cut X of Y” progress\nBlanks on a contour: cut “protrusions only” or “the whole contour”; blanks inside are cut along their own outline\nSheet metal flat pattern from a 3D model with the exact outline, flat pattern DXF and cutting & bending price\nTap holes in DXF (Ø6.8 → M8): thread tapping in the price and routing card\n3D printing: FDM shows only filaments, SLA only resins, SLS only powders; printed part weight and material tips\n3D printing: more accurate SLA/SLS time for a partial platform, hollow parts in SLA\nDesigner’s advisor: bolt selection with VDI 2230 tightening torque, ISO 286 fits, bearings, keys, hardness\n“Which steel to choose”: grades with GOST ↔ EN ↔ AISI equivalents, profiles with weight and cost straight into Product\nEasier to use: Settings in tabs with search, material search in any language, “What’s new” in Help",
-    "pl": "Rozkrój arkusza: kilka wariantów do wyboru — najgęstszy, bez obrotu, rzędami, w cegłę, z większym odpadem użytkowym\nSymulacja lasera przechodzi przez całą część z postępem „Wycięto X z Y”\nPółfabrykaty na konturze: cięcie „tylko wystające” lub „cały kontur”; półfabrykaty wewnątrz — każdy po własnym konturze\nRozwinięcie części z blachy z modelu 3D z dokładnym konturem, DXF rozwinięcia i cena cięcia oraz gięcia\nOtwory pod gwint w DXF (Ø6,8 → M8): gwintowanie w cenie i karcie technologicznej\nDruk 3D: w FDM tylko filamenty, w SLA żywice, w SLS proszki; masa wydrukowanej części i porady materiałowe\nDruk 3D: dokładniejszy czas SLA/SLS dla niepełnej platformy, części puste w środku w SLA\nDoradca konstruktora: dobór śruby z momentem dokręcania wg VDI 2230, pasowania ISO 286, łożyska, wpusty, twardość\n„Jaką stal wybrać”: gatunki z odpowiednikami GOST ↔ EN ↔ AISI, profile z masą i kosztem prosto do Wyrobu\nWygodniej: Ustawienia w zakładkach z wyszukiwaniem, wyszukiwanie materiałów w każdym języku, „Co nowego” w Pomocy"
+    "uk": "Нове: 14 днів Pro безкоштовно — вкажіть email у «Налаштування → Ліцензія», і ключ прийде листом за хвилину\nКнопка «Купити Pro» у картці ліцензії та у вікні Pro-функцій\nЗначок «Пробний ключ Pro» і дата, до якої він діє\nНагадування за 2 дні до кінця пробного періоду — без нав’язливості, можна закрити",
+    "en": "New: 14 days of Pro for free — enter your email in Settings → License and the key arrives within a minute\n“Buy Pro” button in the license card and in the Pro feature window\n“Pro trial key” badge with the expiry date\nA gentle reminder 2 days before the trial ends — easy to dismiss",
+    "pl": "Nowość: 14 dni Pro za darmo — podaj e-mail w Ustawienia → Licencja, a klucz przyjdzie w ciągu minuty\nPrzycisk „Kup Pro” w karcie licencji i w oknie funkcji Pro\nOznaczenie „Klucz próbny Pro” z datą ważności\nDelikatne przypomnienie 2 dni przed końcem okresu próbnego — łatwo zamknąć"
   },
   "resources": {
-    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.41.neu",
-    "size": 17783482,
-    "sha256": "4380fcee779b175469632dab32378a9e5079d449cde68726d7a67febfcea5668",
-    "sig": "kYkMQWhnopxYQnkCmmchmVIVRvJS9NpGvVoGHYIC8qVPcdF4oxJuX7yUjwUdFWT69Rn_jAvxkdJ2SIRASWJXwg"
+    "url": "https://raw.githubusercontent.com/gost-fs/incost-updates/main/resources-0.9.42.neu",
+    "size": 17796816,
+    "sha256": "ebf55dd3e51a029736c539d5316b9f374e40db6a687818468e741b0c3888eb06",
+    "sig": "sSst9BdZALING6vZdHrrr9H-DbzkM_RRMf8xpkV1np8B0bwSLoY417s05LTfu8e9QLKG7xGaywuwYohgZhpdYw"
   }
 }
